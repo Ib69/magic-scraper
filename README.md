@@ -16,6 +16,7 @@ A basic tool to find good badges on a Discord server.
 3. Wait till the Scrap finish.
 4. When its done its going to save all badges in a `result.txt` file.
 
+
 #  - Example of `result.txt` file (Discord Developers Server):
 
 
