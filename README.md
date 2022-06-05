@@ -1,4 +1,4 @@
-##### [🌍 Discord Server](https://discord.gg/rNbcUvV7) [❓ How to Setup ?]()
+##### [🌍 Discord Server](https://discord.gg/rNbcUvV7) [❓ How to Setup ?](https://github.com/Ib69/discord-badge-scraper/blob/main/README.md#---how-to-setup-)
 
 # 🔎 - Discord Badge Scraper:
 A basic tool to find good badges on a Discord server.
