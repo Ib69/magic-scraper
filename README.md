@@ -11,14 +11,11 @@ A basic tool to find good badges on a Discord server.
 
 
 # ❓ - How to Setup ?
-1. Execute the python file.
-2. Enter your infos (the token have to be secret xD)
-3. Wait till the Scrap finish.
-4. When its done its going to save all badges in a `result.txt` file.
-
-
-#  - Example of `result.txt` file (Discord Developers Server):
-
+1. Download the python file.
+2. Change emoji settings in config.
+3. Save your file, then execute.
+4. Wait till the Scrap finish.
+5. When its done its going to save all badges in a `result.txt` file.
 
 
 **Credit goes to [bytixo](https://github.com/bytixo/BadgeScraper)**
