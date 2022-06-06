@@ -14,7 +14,7 @@ A basic tool to find good badges on a Discord server.
 1. Download .zip file.
 2. Open `install.bat`
 3. Change emoji settings in config.
-4. Save your file, then execute.
+4. Save your file, then execute `start.bat`.
 5. Wait till the Scrap finish.
 6. When its done its going to save all badges in a `result.txt` file.
 
