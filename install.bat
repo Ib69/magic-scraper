@@ -1,5 +1,5 @@
 @echo off
-pip install 
+pip install discum
 echo.
-echo installed all requirements, click any key to exit.
+echo installed packages, click any key to exit.
 pause >NUL
